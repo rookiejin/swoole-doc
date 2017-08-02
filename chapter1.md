@@ -7,5 +7,9 @@
 * gcc4.4以上版本或者clang
 * cmake2.4+，编译为libswoole.so作为C/C++库时需要使用cmake
 
+## PHP版本依赖 {#entry_h2_0}
+
+
+
 
 
