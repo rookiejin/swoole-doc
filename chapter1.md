@@ -1,4 +1,4 @@
-## **环境依赖**
+## 环境依赖 {#entry_h2_0}
 
 仅支持Linux，FreeBSD，MacOS，3类操作系统
 
