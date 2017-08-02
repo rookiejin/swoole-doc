@@ -1,4 +1,4 @@
-# 环境依赖
+## **环境依赖**
 
 仅支持Linux，FreeBSD，MacOS，3类操作系统
 
@@ -8,8 +8,6 @@
 * cmake2.4+，编译为libswoole.so作为C/C++库时需要使用cmake
 
 ## PHP版本依赖 {#entry_h2_0}
-
-
 
 
 
